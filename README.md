@@ -6,7 +6,6 @@ I'm Mainak Sil
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mainaksil/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/mainak.sil/)](https://www.instagram.com/mainak.sil)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mainaksil0@gmail.com)
 
 [![Github](https://img.shields.io/github/followers/MainakSil?label=Follow&style=social)](https://github.com/MainakSil)
 
