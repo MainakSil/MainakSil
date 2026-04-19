@@ -65,7 +65,7 @@ Focused on building practical skills through projects and research, with a goal 
 - CS50p: Introduction to Programming with Python
 
 ## Achievements
-- Qualified **GATE (ECE)** during early undergraduate years
+- Qualified **GATE (ECE)** as an undergraduate student
 
 ## Languages
 - French (Elementary)
