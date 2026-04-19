@@ -44,15 +44,6 @@ Focused on building practical skills through projects and research, with a goal 
 - Vivado
 - UVM
 
-### Problem Solving
-- Data Structures and Algorithms
-- Competitive Programming
-
-### Soft Skills
-- Communication
-- Teamwork
-- Analytical Thinking
-
 ## Currently Learning
 - Cadence Virtuoso
 - CMOS VLSI Design
@@ -60,12 +51,5 @@ Focused on building practical skills through projects and research, with a goal 
 - Digital System Design (ASICs and FPGAs)
 - Robotics and Automation
 
-## Certifications
-- CS50x: Introduction to Computer Science
-- CS50p: Introduction to Programming with Python
-
-## Achievements
-- Qualified **GATE (ECE)** as an undergraduate student
-
-## Languages
+## Foreign Languages
 - French (Elementary)
