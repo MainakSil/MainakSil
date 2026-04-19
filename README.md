@@ -1,41 +1,55 @@
-### Hey There
+# Hi, I'm Mainak Sil 👋
 
-I'm Mainak Sil
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mainak%20Sil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainaksil/)
+[![GitHub Followers](https://img.shields.io/github/followers/MainakSil?style=for-the-badge&logo=github&label=Followers)](https://github.com/MainakSil)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mainaksil/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/mainak.sil/)](https://www.instagram.com/mainak.sil)
+## Profile
+Electronics and Communication Engineering student with a strong interest in **VLSI**, **communication systems**, and **embedded systems**.  
+Focused on building practical skills through projects and research, with a goal of solving real-world engineering problems through software-hardware integration.
 
-[![Github](https://img.shields.io/github/followers/MainakSil?label=Follow&style=social)](https://github.com/MainakSil)
+## Education
+**B.Tech in Electronics and Communication Engineering**  
+**VIT-AP University**  
+2023 – 2027 (Currently in 6th semester)
 
--🌱 I'm currently learning: Advanced Python, Java, and exploring projects in software engineering being a student of Electronics and Communication Engineering.
+## Relevant Coursework
+- Data Structures and Algorithms
+- Object-Oriented Programming (Java)
+- Signals and Systems
+- Control Systems
+- Communication Systems
+- Digital Signal Processing
+- Semiconductor Physics
+- Applied Electromagnetics
 
--🔭 I'm currently working on: Python projects involving machine learning and digital image analysis, along with some fun game development projects.
+## Skills
+### Programming
+- Python, Java, C, C++
+- MATLAB, R
+- Embedded C
+- Assembly (8085, ARM)
+- Verilog, SystemVerilog
 
--🤝 I'm looking to collaborate on: Open-source projects, especially those related to software engineering and Python development.
+### Core ECE
+- Semiconductor Devices
+- Microprocessors and Microcontrollers
+- Analog Circuits
+- Control Systems
+- Communication Systems
+- Electromagnetics
+- Digital Signal Processing
+- HDL Verification
 
--💡 I'm looking for help with: Improving my understanding of machine learning algorithms and best practices in software development.
+### Tools
+- Vivado
+- UVM
 
--💬 Ask me about: Python, Java, digital image analysis, and my journey through the CS50x and CS50p courses from HarvardX.
+## Currently Learning
+- Cadence Virtuoso
+- CMOS VLSI Design
+- Linear Integrated Circuits
+- Digital System Design (ASICs and FPGAs)
+- Robotics and Automation
 
--⚡ Fun fact: I love working on creative coding projects and I'm a big fan of nature photography—especially capturing the wild side of animals!
-
-Feel free to explore my repositories and connect with me!
-
-
-### 🖥 Skills
-
-- Python
-- Java
-- HTML
-- C
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MainakSil&show_icons=true&locale=en&layout=compact" alt="MainakSil" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=MainakSil&" alt="MainakSil" />
-</div>
-
-
----
+## Foreign Languages
+- French (Elementary)
