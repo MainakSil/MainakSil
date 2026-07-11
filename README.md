@@ -4,16 +4,6 @@
 Electronics and Communication Engineering student with a strong interest in **VLSI**, **communication systems**, and **embedded systems**.  
 Focused on building practical skills through projects and research, with a goal of solving real-world engineering problems through software-hardware integration.
 
-## Relevant Coursework
-- Data Structures and Algorithms
-- Object-Oriented Programming (Java)
-- Signals and Systems
-- Control Systems
-- Communication Systems
-- Digital Signal Processing
-- Semiconductor Physics
-- Applied Electromagnetics
-
 ## Skills
 ### Programming
 - Python, Java, C, C++
