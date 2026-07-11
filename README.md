@@ -1,15 +1,8 @@
 # Hi, I'm Mainak Sil 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mainak%20Sil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainaksil/)
-
 ## Profile
 Electronics and Communication Engineering student with a strong interest in **VLSI**, **communication systems**, and **embedded systems**.  
 Focused on building practical skills through projects and research, with a goal of solving real-world engineering problems through software-hardware integration.
-
-## Education
-**B.Tech in Electronics and Communication Engineering**  
-**VIT-AP University**  
-2023 – 2027 (Currently in 6th semester)
 
 ## Relevant Coursework
 - Data Structures and Algorithms
@@ -38,17 +31,20 @@ Focused on building practical skills through projects and research, with a goal 
 - Electromagnetics
 - Digital Signal Processing
 - HDL Verification
-
-### Tools
-- Vivado
-- UVM
-
-## Currently Learning
-- Cadence Virtuoso
 - CMOS VLSI Design
 - Linear Integrated Circuits
 - Digital System Design (ASICs and FPGAs)
 - Robotics and Automation
+- RTL to GDSII
+
+### Tools
+- Vivado
+- UVM
+- Cadence Virtuoso
+- Cadence Innovus
+- Cadence Genus
+- Synopsys Primetime
+- Comsol Multiphysics
 
 ## Foreign Languages
 - French (Elementary)
