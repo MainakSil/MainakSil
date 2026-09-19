@@ -1,13 +1,9 @@
 # Hi, I'm Mainak Sil 👋
 
-## Profile
-Electronics and Communication Engineering student with a strong interest in **VLSI**, **communication systems**, and **embedded systems**.  
-Focused on building practical skills through projects and research, with a goal of solving real-world engineering problems through software-hardware integration.
+Electronics and Communication Engineering student with a strong interest in **VLSI**.
 
 ## Skills
 ### Programming
-- Python, Java, C, C++
-- MATLAB, R
 - Embedded C
 - Assembly (8085, ARM)
 - Verilog, SystemVerilog
@@ -16,15 +12,10 @@ Focused on building practical skills through projects and research, with a goal 
 - Semiconductor Devices
 - Microprocessors and Microcontrollers
 - Analog Circuits
-- Control Systems
-- Communication Systems
-- Electromagnetics
-- Digital Signal Processing
 - HDL Verification
 - CMOS VLSI Design
 - Linear Integrated Circuits
 - Digital System Design (ASICs and FPGAs)
-- Robotics and Automation
 - RTL to GDSII
 
 ### Tools
@@ -35,6 +26,3 @@ Focused on building practical skills through projects and research, with a goal 
 - Cadence Genus
 - Synopsys Primetime
 - Comsol Multiphysics
-
-## Foreign Languages
-- French (Elementary)
