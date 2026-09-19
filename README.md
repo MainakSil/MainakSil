@@ -19,10 +19,10 @@
 ### `whoami`
 
 ```verilog
-module mainak_sil (
+module mainaksil (
     input  wire        clk,
     input  wire         rst_n,
-    output reg  [2:0]   focus,     // 000: ASIC | 001: FPGA | 010: RISC-V
+    output reg  [2:0]   focus,     // 000: ASIC | 001: FPGA | 010: RTL | 011: GDSII
     output reg          curiosity  // never gated
 );
     // Hands-on across the full RTL-to-GDSII flow
@@ -49,12 +49,12 @@ endmodule
 read_design -source rtl/
 set_top     current_focus
 
-foreach block { bitnet_bitlinear_accel  or1200_asap7_pnr  snn_ecg_classifier } {
+foreach block { bitnet_bitlinear_accel  des_asap7_pnr } {
     puts "-- exploring: $block"
 }
 
 # STATUS
-# [x] RTL-to-GDSII flow for an RTL on ASAP7 7nm (Genus -> Innovus -> PrimeTime)
+# [x] RTL-to-GDSII flow for a RTL on ASAP7 7nm (Genus -> Innovus -> PrimeTime)
 # [~] BitNet b1.58 BitLinear kernel in Verilog, targeting a Zybo Z7-10 (Zynq-7000)
 
 report_qor -summary
